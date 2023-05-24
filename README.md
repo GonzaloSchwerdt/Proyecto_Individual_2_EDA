@@ -11,5 +11,5 @@ A su vez creé tres nuevas columnas/variables donde clasifica los hechos en mañ
 
 AccidentesAvionesTRANSFORMED.csv : Es el data set original normalizado.  
 AccidentesAvionesFIN.csv : Es una copia de AccidentesAvionesTRANSFORMED, solo que filtra las columnas innecesarias.  
-Analisis.pbix : Es el análisis de los datos con Power BI. (Contiene Scripts de Python)
+Analisis.pbix : Es el análisis de los datos con Power BI. (Contiene Scripts de Python)  
 EDA.ipynb: Es el Jupyer Notebook con el Análisis Exploratorio de los datos.
