@@ -10,6 +10,6 @@ A su vez creé tres nuevas columnas/variables donde clasifica los hechos en mañ
 # Descripción de Archivos
 
 AccidentesAvionesTRANSFORMED.csv : Es el data set original normalizado.  
-AccidentesAvionesFIN.csv : Es una copia de AccidentesAvionesTRANSFORMED, solo que filtra las columnas inecesarias.  
+AccidentesAvionesFIN.csv : Es una copia de AccidentesAvionesTRANSFORMED, solo que filtra las columnas innecesarias.  
 Analisis.pbix : Es el análisis de los datos con Power BI.  
-EDA.ipynb: Es el jupyer notebook con el Análisis Exploratorio de los datos.
+EDA.ipynb: Es el Jupyer Notebook con el Análisis Exploratorio de los datos.
